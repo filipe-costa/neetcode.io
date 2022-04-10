@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35e7c531-0ac1-4808-a409-65003aaba8b6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/apiguardian-api-1.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-5.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-api-5.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-engine-5.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-params-5.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-platform-commons-1.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-platform-engine-1.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/opentest4j-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neetcode.io.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/neetcode.io/arraysandhashing/Duplicates.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/neetcode.io/arraysandhashing/DuplicatesTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/neetcode.io/arraysandhashing/TwoSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/neetcode.io/arraysandhashing/TwoSumTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/neetcode.io/arraysandhashing/ValidAnagram.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/neetcode.io/arraysandhashing/ValidAnagramTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/neetcode.io/binarysearch/BinarySearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/neetcode.io/binarysearch/BinarySearchTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/neetcode.io/slidingwindow/BestTimeToBuyAndSellStock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/neetcode.io/slidingwindow/BestTimeToBuyAndSellStockTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/neetcode.io/stack/MinStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/neetcode.io/stack/MinStackTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/neetcode.io/stack/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/neetcode.io/stack/ValidParenthesis.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/neetcode.io/stack/ValidParenthesisTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/neetcode.io/twopointers/Palindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/neetcode.io/twopointers/PalindromeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/neetcode.io/twopointers/TwoSumII.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/neetcode.io/twopointers/TwoSumIITest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arraysandhashing/Duplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arraysandhashing/DuplicatesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arraysandhashing/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arraysandhashing/TwoSumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arraysandhashing/ValidAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arraysandhashing/ValidAnagramTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarysearch/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarysearch/BinarySearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/slidingwindow/BestTimeToBuyAndSellStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/slidingwindow/BestTimeToBuyAndSellStockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stack/MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stack/MinStackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stack/ValidParenthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stack/ValidParenthesisTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/twopointers/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/twopointers/PalindromeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/twopointers/TwoSumII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/twopointers/TwoSumIITest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="27bRvIamRVw6RcHfiSZzAA1ZQJA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunManager" selected="JUnit.TwoSumTest">
+    <configuration name="DuplicatesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="neetcode.io" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arraysandhashing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="arraysandhashing" />
+      <option name="MAIN_CLASS_NAME" value="arraysandhashing.DuplicatesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoSumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="neetcode.io" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arraysandhashing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="arraysandhashing" />
+      <option name="MAIN_CLASS_NAME" value="arraysandhashing.TwoSumTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidAnagramTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="neetcode.io" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arraysandhashing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="arraysandhashing" />
+      <option name="MAIN_CLASS_NAME" value="arraysandhashing.ValidAnagramTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TwoSumTest" />
+        <item itemvalue="JUnit.ValidAnagramTest" />
+        <item itemvalue="JUnit.DuplicatesTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35e7c531-0ac1-4808-a409-65003aaba8b6" name="Changes" comment="" />
+      <created>1649587028601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649587028601</updated>
+      <workItem from="1649587031664" duration="1167000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
