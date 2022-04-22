@@ -4,22 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35e7c531-0ac1-4808-a409-65003aaba8b6" name="Changes" comment="Added few exercises.">
-      <change afterPath="$PROJECT_DIR$/src/linkedlist/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linkedlist/LinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linkedlist/ListNode.java" afterDir="false" />
+    <list default="true" id="35e7c531-0ac1-4808-a409-65003aaba8b6" name="Changes" comment="Added some tests.">
+      <change afterPath="$PROJECT_DIR$/src/trees/InvertBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees/InvertBinaryTreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees/TreeNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/neetcode.io/arraysandhashing/Duplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/neetcode.io/arraysandhashing/Duplicates.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/neetcode.io/arraysandhashing/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/neetcode.io/arraysandhashing/TwoSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/neetcode.io/arraysandhashing/ValidAnagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/neetcode.io/arraysandhashing/ValidAnagram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/neetcode.io/binarysearch/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/neetcode.io/binarysearch/BinarySearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/neetcode.io/slidingwindow/BestTimeToBuyAndSellStock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/neetcode.io/slidingwindow/BestTimeToBuyAndSellStock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/neetcode.io/stack/MinStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/neetcode.io/stack/MinStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/neetcode.io/stack/ValidParenthesis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/neetcode.io/stack/ValidParenthesis.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/neetcode.io/twopointers/Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/neetcode.io/twopointers/Palindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/neetcode.io/twopointers/TwoSumII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/neetcode.io/twopointers/TwoSumII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binarysearch/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binarysearch/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binarysearch/BinarySearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binarysearch/BinarySearchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/neetcode.io/binarysearch/BinarySearchTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/neetcode.io/binarysearch/BinarySearchTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -66,10 +56,11 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="trees" />
       <recent name="linkedlist" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.BinarySearchTest">
+  <component name="RunManager" selected="JUnit.InvertBinaryTreeTest">
     <configuration name="BinarySearchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="neetcode.io" />
       <extension name="coverage">
@@ -80,6 +71,21 @@
       </extension>
       <option name="PACKAGE_NAME" value="binarysearch" />
       <option name="MAIN_CLASS_NAME" value="binarysearch.BinarySearchTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InvertBinaryTreeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="neetcode.io" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="trees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="trees" />
+      <option name="MAIN_CLASS_NAME" value="trees.InvertBinaryTreeTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -132,28 +138,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="neetcode.io" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arraysandhashing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="arraysandhashing" />
-      <option name="MAIN_CLASS_NAME" value="arraysandhashing.TwoSumTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.InvertBinaryTreeTest" />
         <item itemvalue="JUnit.BinarySearchTest" />
         <item itemvalue="JUnit.LinkedListTest.should_revert_linked_list_of_size_2" />
         <item itemvalue="JUnit.LinkedListTest" />
         <item itemvalue="JUnit.LinkedListTest.should_revert_linked_list_of_size_5" />
-        <item itemvalue="JUnit.TwoSumTest" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +158,8 @@
       <updated>1649587028601</updated>
       <workItem from="1649587031664" duration="2332000" />
       <workItem from="1649698881322" duration="2291000" />
-      <workItem from="1650577094888" duration="810000" />
+      <workItem from="1650577094888" duration="957000" />
+      <workItem from="1650615065231" duration="1176000" />
     </task>
     <task id="LOCAL-00001" summary="Added few exercises.">
       <created>1649588680753</created>
@@ -176,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649588680753</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added some tests.">
+      <created>1650578023302</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650578023302</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,6 +195,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added few exercises." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added few exercises." />
+    <MESSAGE value="Added some tests." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added some tests." />
   </component>
 </project>
