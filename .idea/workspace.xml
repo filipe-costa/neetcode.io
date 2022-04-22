@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35e7c531-0ac1-4808-a409-65003aaba8b6" name="Changes" comment="BinarySearchTest and InvertBinaryTree solutions">
+    <list default="true" id="35e7c531-0ac1-4808-a409-65003aaba8b6" name="Changes" comment="Added merge two lists in LinkedList class.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/trees/InvertBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trees/Trees.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/trees/InvertBinaryTreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trees/TreesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedlist/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedlist/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedlist/LinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedlist/LinkedListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedlist/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedlist/ListNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,22 +59,7 @@
       <recent name="linkedlist" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TreesTest">
-    <configuration name="BinarySearchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="neetcode.io" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="binarysearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="binarysearch" />
-      <option name="MAIN_CLASS_NAME" value="binarysearch.BinarySearchTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.LinkedListTest">
     <configuration name="LinkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="neetcode.io" />
       <extension name="coverage">
@@ -89,7 +75,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListTest.should_revert_linked_list_of_size_2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LinkedListTest.should_merge_two_linked_lists" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="neetcode.io" />
       <extension name="coverage">
         <pattern>
@@ -99,7 +85,23 @@
       </extension>
       <option name="PACKAGE_NAME" value="linkedlist" />
       <option name="MAIN_CLASS_NAME" value="linkedlist.LinkedListTest" />
-      <option name="METHOD_NAME" value="should_revert_linked_list_of_size_2" />
+      <option name="METHOD_NAME" value="should_merge_two_linked_lists" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListTest.should_merge_two_linked_lists_when_one_is_empty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="neetcode.io" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="linkedlist" />
+      <option name="MAIN_CLASS_NAME" value="linkedlist.LinkedListTest" />
+      <option name="METHOD_NAME" value="should_merge_two_linked_lists_when_one_is_empty" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -138,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LinkedListTest" />
+        <item itemvalue="JUnit.LinkedListTest.should_merge_two_linked_lists_when_one_is_empty" />
+        <item itemvalue="JUnit.LinkedListTest.should_merge_two_linked_lists" />
         <item itemvalue="JUnit.TreesTest" />
         <item itemvalue="JUnit.TreesTest.should_return_max_depth_of_3" />
-        <item itemvalue="JUnit.BinarySearchTest" />
-        <item itemvalue="JUnit.LinkedListTest.should_revert_linked_list_of_size_2" />
-        <item itemvalue="JUnit.LinkedListTest" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +159,8 @@
       <workItem from="1649587031664" duration="2332000" />
       <workItem from="1649698881322" duration="2291000" />
       <workItem from="1650577094888" duration="957000" />
-      <workItem from="1650615065231" duration="1843000" />
+      <workItem from="1650615065231" duration="1871000" />
+      <workItem from="1650620285090" duration="2434000" />
     </task>
     <task id="LOCAL-00001" summary="Added few exercises.">
       <created>1649588680753</created>
@@ -180,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650617370114</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Refactor Trees exercise, added maxDepth method.">
+      <created>1650618442303</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1650618442303</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,6 +212,8 @@
     <MESSAGE value="Added few exercises." />
     <MESSAGE value="Added some tests." />
     <MESSAGE value="BinarySearchTest and InvertBinaryTree solutions" />
-    <option name="LAST_COMMIT_MESSAGE" value="BinarySearchTest and InvertBinaryTree solutions" />
+    <MESSAGE value="Refactor Trees exercise, added maxDepth method." />
+    <MESSAGE value="Added merge two lists in LinkedList class." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added merge two lists in LinkedList class." />
   </component>
 </project>
